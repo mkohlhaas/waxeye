@@ -14,7 +14,7 @@ $ sudo cp -R lib /usr/local/
 $ cd src/racket/waxeye
 $ raco pkg install
 $ cd ../../grammars
-$ waxeye -g racket . calc.waxeye
+$ waxeye -g racket . calc.waxeye # or create directly in destination directory
 $ cp parser.rkt ../src/example/racket
 $ cd ../src/example/racket
 $ racket calculator.rkt
