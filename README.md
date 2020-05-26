@@ -3,7 +3,7 @@
 Waxeye is a parser generator based on parsing expression grammars (PEGs). It
 supports C, Java, Javascript, Python, Ruby and Scheme.
 
-# Installation
+# Installation & Usage
 
 ```shell
 $ git clone https://github.com/waxeye-org/waxeye.git
