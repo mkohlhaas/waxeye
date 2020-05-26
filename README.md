@@ -13,7 +13,7 @@ $ sudo cp -R bin /usr/local/
 $ sudo cp -R lib /usr/local/
 $ cd src/racket/waxeye
 $ raco pkg install
-$ cd grammars
+$ cd ../../grammars
 $ waxeye -g racket . calc.waxeye
 $ cp parser.rkt ../src/example/racket
 $ cd ../src/example/racket
